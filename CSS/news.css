@@ -1,0 +1,238 @@
+.nav-bar{
+    display: flex;
+    
+}
+
+.html{
+    height: 74px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.nav{
+    margin-left: auto;
+    padding: 20px;
+}
+
+.contact {
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.about{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.news{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.home{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.cont{
+    height: 670px;
+    background-color: #BDCCD4;
+}
+
+.firstrow{
+    display: flex;
+}
+
+.secondrow{
+    display: flex;
+    margin-top: 40px;
+}
+
+.firstphoto1 {
+    width: 250px;
+    height: 250px;
+    margin-left: 120px;
+}
+
+.firstphot1 {
+    font-size: 20px;
+    margin-left: -250px;
+    margin-top: 225px;
+    background-color: white;
+    width: 250px;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+}
+
+.firstphoto2{
+    height: 250px;
+    width: 250px;
+}
+
+.firstphot2 {
+    font-size: 20px;
+    margin-left: -250px;
+    margin-top: 225px;
+    background-color: white;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    padding: 5px;
+}
+
+.firstphoto3{
+   width: 250px;
+   height: 250px;
+}
+
+.firstphot3 {
+    font-size: 20px;
+    margin-left: -250px;
+    margin-top: 225px;
+    background-color: white;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    padding: 5px;
+}
+
+.firstphoto4{
+    width: 250px;
+    height: 250px;
+ }
+
+ .firstphot4 {
+    font-size: 20px;
+    margin-left: -250px;
+    margin-top: 225px;
+    background-color: white;
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    padding: 5px;
+}
+
+.mor {
+    height: 40px;
+    background-color: grey;
+    text-align: center;
+    align-items: center;
+    width: 150px;
+    padding: 10px;
+    margin-left: 540px;
+    margin-top: 80px;
+}
+.more{
+    font-size: 20px;
+    color: black;
+}
+
+.box{
+    height: 500px;
+    background-color: #363E97;
+    display: flex;
+}
+
+.headddd {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.boxone {
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    margin-left: 85px;
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+}
+
+.boxtwo {
+   position: absolute;
+    height: 300px;
+    width: 500px;
+    background-color: white;
+    margin-left: 670px;
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+}
+
+.textt{
+    font-size: 20px;
+    margin-top: 140px;
+}
+
+.textt1{
+    font-size: 20px;
+    margin-top: 140px;
+}
+
+.footer{
+    background-color: #E6E6E6;
+    width: 100%;
+    height: 380px;
+    display: flex;
+}
+
+.foot {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.smalbox{
+   font-size: 24px;
+   margin-left: 100px;
+}
+
+.smallbox {
+    width: 440px;
+    height: 220px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: -300px;
+}
+
+.text1 {
+    font-size: 25px;
+    width: 300px;
+    margin-left: 120px;
+    margin-top: -120px;
+    text-align: center;
+}
+
+.smallbox2 {
+    width: 440px;
+    height: 220px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.smalbox2{
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.smallboxx2 {
+    width: 101px;
+    height: 143px;
+    margin-top: 2px;
+}
+
+.smabox2 {
+    font-size: 25px;
+    width: 330px;
+    margin-left: 100px;
+    margin-top: -120px;
+    text-align: center;
+}
+

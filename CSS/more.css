@@ -1,0 +1,175 @@
+.nav-bar{
+    display: flex;
+    
+}
+
+.html{
+    height: 74px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.nav{
+    margin-left: auto;
+    padding: 20px;
+}
+
+.contact {
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.about{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.news{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.home{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.new{
+    height: 80px;
+    background-color: #BDCCD4;
+}
+
+.new1 {
+    padding: 30px;
+}
+
+.text{
+    display: inline;
+}
+.pp {
+    border: 2px solid grey;
+    width: 50px;
+    height: 50px;
+    font-size: larger;
+    padding: 13px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.h1 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.text11 {
+    margin-left: 300px;
+    margin-top: -200px;
+    width: 700px;
+}
+
+.text22 {
+    width: 700px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.text3 {
+    width: 58%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.text4{
+    width: 58%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.text5{
+    width: 58%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.back{
+    height: 100px;
+    background-color: #BDCCD4;
+}
+
+.back1{
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.footer{
+    background-color: #E6E6E6;
+    width: 100%;
+    height: 380px;
+    display: flex;
+    margin-top: -20px;
+}
+
+.foot {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.smalbox{
+   font-size: 24px;
+   margin-left: 100px;
+}
+
+.smallbox {
+    width: 440px;
+    height: 220px;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: -300px;
+}
+
+.text1 {
+    font-size: 25px;
+    width: 300px;
+    margin-left: 120px;
+    margin-top: -120px;
+    text-align: center;
+}
+
+.smallbox2 {
+    width: 440px;
+    height: 220px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.smalbox2{
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.smallboxx2 {
+    width: 101px;
+    height: 143px;
+    margin-top: 2px;
+}
+
+.smabox2 {
+    font-size: 25px;
+    width: 330px;
+    margin-left: 100px;
+    margin-top: -120px;
+    text-align: center;
+}
